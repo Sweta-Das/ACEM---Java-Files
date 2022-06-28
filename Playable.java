@@ -1,3 +1,3 @@
 public interface Playable {
-    void play();
+    void play(); // public abstract function
 }

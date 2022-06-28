@@ -1,6 +1,7 @@
 public class Football extends Ball {
     
-    public void play(){
+    public void play()
+    {
         System.out.println("Playing a football");
     }
 
